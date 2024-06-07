@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "username": "Mark Webber",
+    "action": "reacted to your recent post",
+    "post": "My first tournament today!",
+    "isred": false,
+    "time": "1m ago",
+    "profImage": "./images/Ovalfirst.png"
+  },
+  {
+    "id": 2,
+    "username": "Angela Gray",
+    "action": "followed you",
+    "isred": false,
+    "time": "5m ago",
+    "profImage": "./images/Group 62.png"
+  },
+  {
+    "id": 3,
+    "username": "Jacob Thompson",
+    "action": "has joined your group",
+    "club": "Chess club",
+    "isred": false,
+    "time": "1 day ago",
+    "profImage": "./images/Oval3.png"
+  },
+  {
+    "id": 4,
+    "username": "Rizky Hasanuddin",
+    "action": "sent you a private message",
+    "isred": true,
+    "time": "5 days ago",
+    "profImage": "./images/Oval4.png",
+    "text": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game."
+  },
+  {
+    "id": 5,
+    "username": "Kimberly Smith",
+    "action": "commented on your picture",
+    "isred": true,
+    "time": "1 week ago",
+    "profImage": "./images/Oval5.png"
+  },
+  {
+    "id": 6,
+    "username": "Nathan Peterson",
+    "action": "reacted to your recent post",
+    "post": "increase your win rate",
+    "isred": true,
+    "time": "2 weeks ago",
+    "profImage": "./images/Oval6.png"
+  },
+  {
+    "id": 7,
+    "username": "Anna Kim",
+    "action": "left the group",
+    "club": "Chess club",
+    "isred": true,
+    "time": "4 weeks ago",
+    "profImage": "./images/Group 67.png"
+  }
+]

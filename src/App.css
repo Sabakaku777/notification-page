@@ -1,0 +1,89 @@
+.container {
+  background-color: white;
+  padding-inline: 30px;
+  padding-top: 30px;
+  margin-inline: 380px;
+  border-radius: 10px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.red {
+  width: 8px;
+  height: 8px;
+  background-color: #f65552;
+  border-radius: 50%;
+}
+
+.notification-container {
+  border-radius: 15px;
+  padding-inline: 20px;
+  padding-block: 2px;
+}
+img {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  top: 10px;
+}
+
+.username {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 20.16px;
+  color: #1c202b;
+}
+.action {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20.16px;
+  color: #5e6778;
+}
+
+.post {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 20.16px;
+  color: #5e6778;
+}
+
+.club {
+  font-size: 16px;
+  font-weight: 800;
+  line-height: 20.16px;
+  color: #0a327b;
+}
+.content {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.mtavari {
+  padding-top: 10px;
+}
+
+.time {
+  position: relative;
+  left: 55px;
+  bottom: 6px;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20.16px;
+  color: #939cad;
+}
+
+.text {
+  border: solid 1px gray;
+  border-radius: 7px;
+  opacity: 50%;
+  margin-left: 60px;
+  padding-inline: 40px;
+  padding-block: 10px;
+}
